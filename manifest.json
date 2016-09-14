@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Download Shelf Disabler (Mac-only)",
+  "name": "Download Shelf Disabler for Mac",
   "description": "Turns off Chrome's downloads shelf on Mac computers.",
   "version": "1.2",
   "icons": { "128": "icon128.png" },
